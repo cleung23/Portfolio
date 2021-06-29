@@ -6,8 +6,8 @@ The following are some of my projects:
 1. Python
    Churn Prediction Analytics: I use customer transaction data in a US bank to develop a churn prediction model, to enable the customer             retention team to identify potential churners early and to take preemptive actions.
 [Customer Segmentation](https://github.com/cleung23/Python-Code/blob/bb4614cfd589fb43f0fe634254fe5abd2a8d8f52/Customer%20Segmentation.ipynb)
-   b. Sampling Methods
-   c. Split Samples
+   b. [Sampling Methods](https://github.com/cleung23/Python-Code/blob/bb4614cfd589fb43f0fe634254fe5abd2a8d8f52/Sampling%20Methods.ipynb)
+   c. [Split Samples](https://github.com/cleung23/Python-Code/blob/bb4614cfd589fb43f0fe634254fe5abd2a8d8f52/Split%20Sample.ipynb)
 
    
 2. R
