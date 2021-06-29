@@ -5,7 +5,7 @@ Hello, my name is Christina Leung.  I am a data science researcher.  I use machi
 The following are some of my projects:
 1. Python
    Churn Prediction Analytics: I use customer transaction data in a US bank to develop a churn prediction model, to enable the customer             retention team to identify potential churners early and to take preemptive actions.
-   a. [Customer Segmentation] (https://github.com/cleung23/Portfolio/blob/2676fc6e92c8c25621dde6603e96be49aa87c766/Customer%20Segmentation.ipynb)
+[Customer Segmentation](https://github.com/cleung23/Portfolio/blob/2676fc6e92c8c25621dde6603e96be49aa87c766/Customer%20Segmentation.ipynb)
    b. Sampling Methods
    c. Split Samples
 
