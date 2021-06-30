@@ -16,6 +16,8 @@ The following are some of my projects:
 
 ### e. [Machine Learning](https://github.com/cleung23/Python-Code/blob/01c4413a61cf3bb1eeda9d5c2ce6881750f61171/ML.ipynb)
 
+### f. [Deep Learning](https://github.com/cleung23/Python-Code/blob/42575cfcb2cf34f0b152b028863186ee9ba8e77f/Deep%20Learning.ipynb)
+
    
 ## 2. R
    Credit Approval Model
