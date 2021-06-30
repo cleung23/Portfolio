@@ -12,6 +12,8 @@ The following are some of my projects:
 
 ### c. [Split Samples](https://github.com/cleung23/Python-Code/blob/bb4614cfd589fb43f0fe634254fe5abd2a8d8f52/Split%20Sample.ipynb)
 
+### d. [Building Time Series](https://github.com/cleung23/Python-Code/blob/3bef045602b1a64cb99ade62ade53e2581c1763c/Building%20TS.ipynb)
+
    
 ## 2. R
    Credit Approval Model
