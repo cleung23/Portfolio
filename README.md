@@ -14,6 +14,8 @@ The following are some of my projects:
 
 ### d. [Building Time Series](https://github.com/cleung23/Python-Code/blob/3bef045602b1a64cb99ade62ade53e2581c1763c/Building%20TS.ipynb)
 
+### e. [Machine Learning](https://github.com/cleung23/Python-Code/blob/01c4413a61cf3bb1eeda9d5c2ce6881750f61171/ML.ipynb)
+
    
 ## 2. R
    Credit Approval Model
