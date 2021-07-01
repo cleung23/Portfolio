@@ -22,3 +22,4 @@ The following are some of my projects:
 ## 2. R
    Credit Approval Model: I use customer records to predict consumer loan approval.
    Skills involved: Data preparation, machine learning, cross validation, hyperparameter tuning etc.
+   [Sample Code](https://github.com/cleung23/R-Code/blob/eb15aa73715c907c4acaa40051fc2744d80f6e01/Project%20R%20Code_ID_33.r)
