@@ -1,5 +1,5 @@
 # Portfolio
-Hello, my name is Christina Leung.  I am a data science researcher.  I use machine learning and deep learning models in predictive analytics.  My research areas include mining time series transaction data and imbalance dataset etc.
+Hello, my name is Christina Leung.  I am a data analyst / data scientist.  I use machine learning and deep learning models in predictive analytics.  My research areas include mining time series transaction data and imbalance dataset etc.
 [View my publication](https://aisel.aisnet.org/amcis2020/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/28/)
 
 The following are some of my projects:
