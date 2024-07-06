@@ -1,9 +1,12 @@
 # Portfolio
-Hello, my name is Christina Leung.  I am a data analyst / data scientist.  I use machine learning and deep learning models in predictive analytics.  My research areas include mining time series transaction data and imbalance dataset etc.
-[View my publication](https://aisel.aisnet.org/amcis2020/data_science_analytics_for_decision_support/data_science_analytics_for_decision_support/28/)
+Hello, my name is Christina Leung.  I am a data analyst / data scientist.  My career taget is to leverage my extensive experience in data analysis and predictive modeling to drive impactful insights and strategic decisions within a dynamic organization. I aim to lead cross-functional teams in developing advanced analytical solutions, optimizing processes, and ultimately contributing to measurable business growth and innovation. Proven track record of reducing process times, predicting customer behavior, and enabling substantial financial growth.
 
-The following are some of my projects:
-## 1. Python
+The following are some of my work samples:
+## 1. Sample Power BI Dashboard
+   This dashboard is created by using Power BI.  Python is used to extract data from 31 Excel spreadsheets, clean and convert the data to normalized tables.  The normalized tables are then imported to Power BI.
+### [Sample Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M3ZTAzMTQtYzkyMi00MjA1LWFjN2YtYzI2NWRmYjQwNTZiIiwidCI6ImM4ODM3Y2EyLTUzM2EtNGIyZS1iMjE1LWZhZDY3YzExMDg0YyIsImMiOjF9)
+
+## 2. Python
    Churn Prediction Analytics: I use customer transaction data in a US bank to develop a churn prediction model.  This model can enable customer retention team to identify potential churners early and to take preemptive actions.
 
 ### a. [Customer Segmentation](https://github.com/cleung23/Python-Code/blob/bb4614cfd589fb43f0fe634254fe5abd2a8d8f52/Customer%20Segmentation.ipynb)
@@ -18,8 +21,11 @@ The following are some of my projects:
 
 ### f. [Deep Learning](https://github.com/cleung23/Python-Code/blob/fc02e47fd4aa1bead22a013f0680a409b4879a07/Deep%20Learning.ipynb)
 
+### g. [Data Preparation for Sample Dashboard](https://github.com/cleung23/Python-Code/blob/c796ac2dd9a05d7e9e607af3d460eba3b0ebd7fb/SY24_25_prep-copy.py)
+###      [Driver code for Sample Dashboard](https://github.com/cleung23/Python-Code/blob/c796ac2dd9a05d7e9e607af3d460eba3b0ebd7fb/DashboardSY24-copy.py)
+
    
-## 2. R
+## 3. R
    Credit Approval Model: I use customer records to predict consumer loan approval.
    Skills involved: Data preparation, machine learning, cross validation, hyperparameter tuning etc.
    [Sample Code](https://github.com/cleung23/R-Code/blob/eb15aa73715c907c4acaa40051fc2744d80f6e01/Project%20R%20Code_ID_33.r)
