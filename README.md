@@ -6,6 +6,11 @@ The following are some of my work samples:
    This dashboard is created by using Power BI.  Python is used to extract data from 31 Excel spreadsheets, clean and convert the data to normalized tables.  The normalized tables are then imported to Power BI.
 ### [Sample Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M3ZTAzMTQtYzkyMi00MjA1LWFjN2YtYzI2NWRmYjQwNTZiIiwidCI6ImM4ODM3Y2EyLTUzM2EtNGIyZS1iMjE1LWZhZDY3YzExMDg0YyIsImMiOjF9)
 
+## 2. Predictive Analytics Projects
+### a. [Mortgage Deposit Propensity Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/b4991d3a667095e74b07f11777eed5f98cbac71d/Deposit%20Propensity%20Model.pdf)
+
+### b. [Churn Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/11e8b51658007380f11cc101933b3bbec0e828ee/Churn%20Prediction%20Process.pdf)
+
 ## 2. Python
    Churn Prediction Analytics: I use customer transaction data in a US bank to develop a churn prediction model.  This model can enable customer retention team to identify potential churners early and to take preemptive actions.
 
