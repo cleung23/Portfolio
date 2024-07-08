@@ -1,5 +1,5 @@
 # Portfolio
-Hello, my name is Christina Leung.  I am a data analyst / data scientist.  My career taget is to leverage my extensive experience in data analysis and predictive modeling to drive impactful insights and strategic decisions within a dynamic organization. I aim to lead cross-functional teams in developing advanced analytical solutions, optimizing processes, and ultimately contributing to measurable business growth and innovation. Proven track record of reducing process times, predicting customer behavior, and enabling substantial financial growth.
+Hello, my name is Christina Leung.  I am a data analyst / data scientist.  My career taget is to leverage my extensive experience in data analysis and predictive modeling to drive impactful insights and strategic decisions within a dynamic organization. I aim to lead cross-functional teams in developing advanced analytical solutions, optimizing processes, and ultimately contributing to measurable business growth and innovation.
 
 The following are some of my work samples:
 ## 1. Sample Power BI Dashboard
