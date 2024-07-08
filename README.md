@@ -11,7 +11,7 @@ The following are some of my work samples:
 
 ### b. [Churn Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/11e8b51658007380f11cc101933b3bbec0e828ee/Churn%20Prediction%20Process.pdf)
 
-## 2. Python
+## 3. Python
    Churn Prediction Analytics: I use customer transaction data in a US bank to develop a churn prediction model.  This model can enable customer retention team to identify potential churners early and to take preemptive actions.
 
 ### a. [Customer Segmentation](https://github.com/cleung23/Python-Code/blob/bb4614cfd589fb43f0fe634254fe5abd2a8d8f52/Customer%20Segmentation.ipynb)
@@ -30,7 +30,7 @@ The following are some of my work samples:
 ###      [Driver code for Sample Dashboard](https://github.com/cleung23/Python-Code/blob/c796ac2dd9a05d7e9e607af3d460eba3b0ebd7fb/DashboardSY24-copy.py)
 
    
-## 3. R
+## 4. R
    Credit Approval Model: I use customer records to predict consumer loan approval.
    Skills involved: Data preparation, machine learning, cross validation, hyperparameter tuning etc.
    [Sample Code](https://github.com/cleung23/R-Code/blob/eb15aa73715c907c4acaa40051fc2744d80f6e01/Project%20R%20Code_ID_33.r)
