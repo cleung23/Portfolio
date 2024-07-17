@@ -7,7 +7,7 @@ The following are some of my work samples:
 ### [Sample Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M3ZTAzMTQtYzkyMi00MjA1LWFjN2YtYzI2NWRmYjQwNTZiIiwidCI6ImM4ODM3Y2EyLTUzM2EtNGIyZS1iMjE1LWZhZDY3YzExMDg0YyIsImMiOjF9)
 
 ## 2. Predictive Analytics Projects
-### a. [Mortgage Deposit Propensity Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/b4991d3a667095e74b07f11777eed5f98cbac71d/Deposit%20Propensity%20Model.pdf)
+### a. [Mortgage Deposit Propensity Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/9ac6abab1e455a4093115e2a138fdb55ac51d116/Deposit%20Propensity%20Model.pdf)
 
 ### b. [Churn Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/11e8b51658007380f11cc101933b3bbec0e828ee/Churn%20Prediction%20Process.pdf)
 
