@@ -9,7 +9,7 @@ The following are some of my work samples:
 ## 2. Predictive Analytics Projects
 ### a. [Mortgage Deposit Propensity Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/9ac6abab1e455a4093115e2a138fdb55ac51d116/Deposit%20Propensity%20Model.pdf)
 
-### b. [Churn Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/82796ba6e1fcc3aeb932926f4ca139407863f03d/Churn%20Prediction.pdf)
+### b. [Churn Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/18f07c4698e6e6b84ee1d4044c0295b7f431a45e/Churn%20Prediction%20Process.pdf)
 
 ## 3. Python
    Churn Prediction Analytics: I use customer transaction data in a US bank to develop a churn prediction model.  This model can enable customer retention team to identify potential churners early and to take preemptive actions.
