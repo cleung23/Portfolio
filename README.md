@@ -4,7 +4,7 @@ Hello, my name is Christina Leung.  I am a data analyst / data scientist.  My ca
 The following are some of my work samples:
 ## 1. Sample Power BI Dashboard
    This dashboard is created by using Power BI.  Python is used to extract data from 31 Excel spreadsheets, clean and convert the data to normalized tables.  The normalized tables are then imported to Power BI.
-### [Sample Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M3ZTAzMTQtYzkyMi00MjA1LWFjN2YtYzI2NWRmYjQwNTZiIiwidCI6ImM4ODM3Y2EyLTUzM2EtNGIyZS1iMjE1LWZhZDY3YzExMDg0YyIsImMiOjF9)
+### [Sample Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2VlMjJlNTAtYWZmYS00NjM0LTgzNDQtZWRlZWJmZGMxM2ZjIiwidCI6ImM4ODM3Y2EyLTUzM2EtNGIyZS1iMjE1LWZhZDY3YzExMDg0YyIsImMiOjF9)
 
 ## 2. Predictive Analytics Projects
 ### a. [Mortgage Deposit Propensity Prediction](https://github.com/cleung23/Predictive-Analytics-Project-Slides/blob/9ac6abab1e455a4093115e2a138fdb55ac51d116/Deposit%20Propensity%20Model.pdf)
